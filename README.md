@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nuril Muqit</h1>
 <h3 align="center">Just a Student</h3>
+<img align="right" alt="slate" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Jzc3ZvdjZlajE5emd6YzFwMGhlOWswM2t6Z2tjdGdzZjIwd2UyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DOMQa5Ib2SmaRZm/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kneko&label=Profile%20views&color=0e75b6&style=flat" alt="kneko" /> </p>
 
